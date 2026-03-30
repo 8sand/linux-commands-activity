@@ -1,1 +1,2 @@
-# linux-commands-activity
+Project description
+We will be using Linux commands to configure authorization. In simple terms, authorization is the concept of granting specific resources in a system. Furthermore, the principle of least privilege states that we should only give the level of authorization needed based on the role/position of the person/group involved. It is our job, as security analysts, to enforce this principle and ensure that all parties have the level of authorization they need; no more, and no less. 
